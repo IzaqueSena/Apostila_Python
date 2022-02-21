@@ -1,6 +1,6 @@
 # Apostila_Python
 
-## Sumário 1 
+## Sumário  
 1. Lógica de Programação em Python 2 
 2. Programação Procedural em Python 3 
 3. Introdução à Programação Orientada a Objetos em Python 4 
